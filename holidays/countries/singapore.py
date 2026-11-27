@@ -46,6 +46,7 @@ class Singapore(
         * [Wikipedia](https://en.wikipedia.org/wiki/Public_holidays_in_Singapore)
         * [Holidays Act 1998](https://web.archive.org/web/20250405061431/https://sso.agc.gov.sg/Act/HA1998)
         * [Ministry of Manpower](https://web.archive.org/web/20260618052239/https://mom.gov.sg/employment-practices/public-holidays)
+        * [Change of Date for Deepavali in Year 2003](https://www.nas.gov.sg/archivesonline/data/pdfdoc/2003041101.htm)
 
     Limitations:
         * Prior to 1969: holidays are estimated.
@@ -198,7 +199,7 @@ class SingaporeHinduHolidays(_CustomHinduHolidays):
     DIWALI_DATES = {
         2001: (NOV, 14),
         2002: (NOV, 3),
-        2003: (OCT, 23),
+        2003: (OCT, 24),
         2004: (NOV, 11),
         2005: (NOV, 1),
         2006: (OCT, 21),

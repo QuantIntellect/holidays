@@ -217,6 +217,7 @@ class TestSingapore(CommonCountryTests, TestCase):
         name = "Deepavali"
         self.assertHolidayName(
             name,
+            "2003-10-24",
             "2020-11-14",
             "2021-11-04",
             "2022-10-24",
